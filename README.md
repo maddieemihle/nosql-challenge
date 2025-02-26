@@ -23,16 +23,16 @@ _Eat Safe, Love_ gave specific questions that they wanted answered to help them 
 In Part 3 of the challenge, several questions were asked and answered. 
 
 1. Which establishments have a hygiene score equal to 20? 
-* The establishments that have a hygiene score equal to 20 are __
+* The number of establishments that have a hygiene score equal to 20 are 41 from the 'uk_food' dataset.
 
 2. Which establishments have a RatingValue greater than or equal to 4? 
-* The establishments that have a RatingValue greater than or equal to 4 are __
+* The establishments that have a RatingValue greater than or equal to 4 is 34.
 
 3. What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
-* The top five establishments with a RatingValue of 5 are 
+* The top five establishments with a RatingValue of 5 (and sorted from lowest to nearest the resturant Penang Flavours) are: "Volunteer", "Plumstead Manor Nursery", "Atlantic Fish Bar", "Iceland", and "Howe and Co Fish and Chips-Van 17"
 
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
-* The number of establishments in each Local Authority area that have a hygiene score of 0 are 
+* The number of establishments in each Local Authority area that have a hygiene score of 0 is 55. 
 
 ## Methods Used 
 * Pandas 
